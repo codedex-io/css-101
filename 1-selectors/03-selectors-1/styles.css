@@ -1,0 +1,26 @@
+/* Selectors Pt. 1 👇 */
+/* Codédex */
+
+div {
+  border: 1px solid;
+  text-align: center;
+}
+
+.line {
+  width: 50%;
+  margin: auto;
+  padding: 10px 0;
+  text-decoration: underline;
+}
+
+#roses {
+  background-color: red;
+}
+
+#violets {
+  background-color: violet;
+}
+
+#sugar {
+  background-color: beige;
+}
