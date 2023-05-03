@@ -1,0 +1,19 @@
+/* Selectors Pt. 2 👪 */
+/* Codédex */
+
+ul, ol {
+  border: 1px solid;
+  width: max-content;
+}
+
+li {
+  text-decoration: underline;
+}
+
+ul > li {
+  text-decoration-color: brown;
+}
+
+ol li {
+  text-decoration-color: blue;
+}

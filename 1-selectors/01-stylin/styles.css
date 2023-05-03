@@ -1,0 +1,59 @@
+/* Stylin' 🖌️ */
+/* Codédex */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Chalkduster", fantasy;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  text-align: center;
+}
+
+main {
+  background-color: tomato;
+  width: 70%;
+  margin: auto;
+  position: relative;
+  border-radius: 5px;
+  margin-top: 50px;
+}
+
+#hero-copy {
+  padding: 5px;
+}
+
+#hero-img > figure > img {
+  border-radius: 10px;
+}
+
+#call-to-action {
+  background-color: lightgreen;
+  padding-bottom: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+#call-to-action > h1 {
+  padding-bottom: 5px;
+}
+
+form {
+  width: 60%;
+  margin: auto;
+}
+
+input[type="email"] {
+  width: 50%;
+  padding: 7px;
+  margin: 0;
+}
+
+input[type="submit"] {
+  padding: 7px;
+}
