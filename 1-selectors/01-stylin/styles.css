@@ -2,7 +2,6 @@
 /* Codédex */
 
 body {
-  margin: 0;
   font-family: "Chalkduster", fantasy;
   width: 100%;
   height: 100vh;
@@ -24,6 +23,7 @@ main {
 }
 
 #hero-img > figure > img {
+  width: 70%;
   border-radius: 10px;
 }
 
