@@ -1,0 +1,11 @@
+#outer {
+  width: 500px;
+  height: 500px;
+  background-color: green;
+}
+
+#inner {
+  width: 400px;
+  height: 400px;
+  background-image: url('https://cdn.pixabay.com/photo/2017/08/14/20/45/ring-tailed-lemur-2641910_1280.jpg');
+}
