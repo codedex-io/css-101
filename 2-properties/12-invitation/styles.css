@@ -1,0 +1,19 @@
+#invite-wrapper {
+  width: 25%;
+  padding: 25px;
+  background: violet;
+  color: #fff;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+
+#invite-text {
+  width: 80%;
+}
+
+#itinerary {
+  text-align: center;
+}

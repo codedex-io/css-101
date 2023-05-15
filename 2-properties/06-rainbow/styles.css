@@ -1,0 +1,11 @@
+#first-color {
+  color: green;
+}
+
+#second-color {
+  color: rgb(128, 0, 128);
+}
+
+#third-color {
+  color: #ffa500;
+}
