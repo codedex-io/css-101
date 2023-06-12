@@ -3,17 +3,22 @@
 
 ul, ol {
   border: 1px solid;
-  width: max-content;
+  width: 200px;
 }
 
-li {
-  text-decoration: underline;
+ul {
+  background-color: lightgreen;
 }
 
-ul > li {
-  text-decoration-color: brown;
+ol {
+  background-color: skyblue;
+  color: white;
 }
 
-ol li {
-  text-decoration-color: blue;
+ul > h2 {
+  text-decoration: underline wavy 3px brown;
+}
+
+ol > h2 {
+  text-decoration: underline dotted 3px indigo;
 }
