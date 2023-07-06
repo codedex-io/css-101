@@ -1,0 +1,71 @@
+/* Local Library 💳 */
+/* Codédex */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+header {
+  background-image: url('https://cdn.pixabay.com/photo/2020/07/23/01/29/books-5430104_1280.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 200px;
+}
+
+h1 {
+  margin: 10px 0;
+}
+
+nav > a {
+  width: 33%;
+  border: 3px solid purple;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px;
+}
+
+main {
+  margin-top: 20px;
+}
+
+section {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#welcome > p {
+  text-align: center;
+  margin: 0 5em;
+}
+
+#catalog-input, #forn-btn {
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 800;
+  padding: 8px;
+}
+
+#catalog-input {
+  border: 2px;
+  width: 37.5%;
+}
+
+#staff-picks {
+  text-align: center;
+}
+
+.staff-pick-img {
+  border: 1px;
+  border-radius: 0 7px 7px 0;
+  width: 10em;
+  height: 10em;
+}
+
