@@ -1,0 +1,50 @@
+/* Spaced Out 🛰️ */
+/* Codédex */
+
+* {
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+div {
+  border: 2px solid grey;
+}
+
+#post-list {
+  padding-right: 40px;
+}
+
+#post-list > li {
+  list-style-type: none;
+}
+
+li > div {
+  text-align: left;
+}
+
+#top-img {
+  width: 10em;
+  height: 10em;
+  border: 12px solid green;
+  border-radius: 50%;
+}
+
+#outside-wrapper {
+  width: 90%;
+  background-color: rgb(169, 206, 221);
+  text-align: center;
+  margin: auto;
+}
+
+.post-wrapper {
+  text-align: left;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  padding: 50px 50px 0 50px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.post-img {
+  width: 100%;
+  border-radius: 5px;
+}
