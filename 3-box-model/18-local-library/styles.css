@@ -54,7 +54,7 @@ section {
 }
 
 #catalog-input {
-  border: 2px;
+  border: 2px solid black;
   width: 37.5%;
 }
 
@@ -63,7 +63,7 @@ section {
 }
 
 .staff-pick-img {
-  border: 1px;
+  border: 1px solid black;
   border-radius: 0 7px 7px 0;
   width: 10em;
   height: 10em;
