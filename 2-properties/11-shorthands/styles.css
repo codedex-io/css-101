@@ -1,7 +1,7 @@
 h1 {
-  text-decoration: underline wavy 2.5px purple;
+  border: 2px solid blue;
 }
 
 p {
-  font: 14px 400 Arial, sans-serif;
+  font: 800 12px Georgia, serif;
 }
