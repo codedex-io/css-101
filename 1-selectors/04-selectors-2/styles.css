@@ -17,8 +17,20 @@ ol {
 
 ul > h2 {
   text-decoration: underline wavy 3px brown;
+
+  /* For Safari */
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: brown;
+  text-decoration-thickness: 3px;
 }
 
 ol > h2 {
   text-decoration: underline dotted 3px indigo;
+
+  /* For Safari */
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: indigo;
+  text-decoration-thickness: 3px;
 }
