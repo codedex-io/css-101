@@ -15,7 +15,7 @@ ol {
   color: white;
 }
 
-ul > h2 {
+ul > li {
   text-decoration: underline wavy 3px brown;
 
   /* For Safari */
@@ -25,7 +25,7 @@ ul > h2 {
   text-decoration-thickness: 3px;
 }
 
-ol > h2 {
+ol > li {
   text-decoration: underline dotted 3px indigo;
 
   /* For Safari */
