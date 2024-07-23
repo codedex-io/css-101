@@ -24,8 +24,9 @@ h1 {
   margin: 10px 0;
 }
 
-nav > a {
+.nav-item {
   width: 33%;
+  display: inline-block;
   border: 3px solid purple;
   border-radius: 5px;
   padding: 5px;
