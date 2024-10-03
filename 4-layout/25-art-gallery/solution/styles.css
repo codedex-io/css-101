@@ -26,14 +26,14 @@
   
   #gallery-header > p {
     font-weight: 800;
-    display: inline; /* Make the paragraph inline */
+    display: inline; 
   }
   
   /* Add code here */
   
   #gallery-container {
-    display: inline-block; /* Make the container an inline-block */
-    position: absolute; /* Use absolute positioning */
+    display: inline-block; 
+    position: absolute; 
     top: 10px;
     left: 50px;
     z-index: 10;
@@ -54,7 +54,7 @@
     z-index: 10;
     top: 5%;
     left: 10%;
-    display: inline-block; /* Add inline-block display */
+    display: inline-block; 
   }
   
   #item-4 {
