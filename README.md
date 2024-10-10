@@ -21,7 +21,7 @@ Welcome to The Origins II: CSS GitHub repo! We are super excited to have you. He
 ## Properties
 
 - [`rainbow`](https://github.com/codedex-io/css-101/tree/main/2-properties/06-rainbow)
-- [`measurements-2`](https://github.com/codedex-io/css-101/tree/main/2-properties/07-measurements-2)
+- [`measurements`](https://github.com/codedex-io/css-101/tree/main/2-properties/07-measurements)
 - [`five-families`](https://github.com/codedex-io/css-101/tree/main/2-properties/08-five-families)
 - [`spellcheck`](https://github.com/codedex-io/css-101/tree/main/2-properties/09-spellcheck)
 - [`wallpaper`](https://github.com/codedex-io/css-101/tree/main/2-properties/10-wallpaper)
