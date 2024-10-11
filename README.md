@@ -26,6 +26,7 @@ Welcome to The Origins II: CSS GitHub repo! We are super excited to have you. He
 - [`spellcheck`](https://github.com/codedex-io/css-101/tree/main/2-properties/09-spellcheck)
 - [`wallpaper`](https://github.com/codedex-io/css-101/tree/main/2-properties/10-wallpaper)
 - [`shorthands`](https://github.com/codedex-io/css-101/tree/main/2-properties/11-shorthands)
+- [`invitation`](https://github.com/codedex-io/css-101/tree/main/2-properties/12-invitation)
 
 ## Box Model
 
