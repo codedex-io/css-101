@@ -12,7 +12,7 @@ Welcome to The Origins II: CSS GitHub repo! We are super excited to have you. He
 
 ## Selectors
 
-- [`stylin`](https://github.com/codedex-io/css-101/tree/main/1-selectors/01-stylin)
+- [`picasso`](https://github.com/codedex-io/css-101/tree/main/1-selectors/01-picasso)
 - [`syntax`](https://github.com/codedex-io/css-101/tree/main/1-selectors/02-syntax)
 - [`selectors-1`](https://github.com/codedex-io/css-101/tree/main/1-selectors/03-selectors-1)
 - [`selectors-2`](https://github.com/codedex-io/css-101/tree/main/1-selectors/04-selectors-2)
