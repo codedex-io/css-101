@@ -26,3 +26,22 @@ Welcome to The Origins II: CSS GitHub repo! We are super excited to have you. He
 - [`spellcheck`](https://github.com/codedex-io/css-101/tree/main/2-properties/09-spellcheck)
 - [`wallpaper`](https://github.com/codedex-io/css-101/tree/main/2-properties/10-wallpaper)
 - [`shorthands`](https://github.com/codedex-io/css-101/tree/main/2-properties/11-shorthands)
+- [`invitation`](https://github.com/codedex-io/css-101/tree/main/2-properties/12-invitation)
+
+## Box Model
+
+- [`profile-status`](https://github.com/codedex-io/css-101/tree/main/3-box-model/14-profile-status)
+- [`wiggle-room`](https://github.com/codedex-io/css-101/tree/main/3-box-model/15-wiggle-room)
+- [`spaced-out`](https://github.com/codedex-io/css-101/tree/main/3-box-model/16-spaced-out)
+- [`make-it-count`](https://github.com/codedex-io/css-101/tree/main/3-box-model/17-make-it-count)
+- [`local-library`](https://github.com/codedex-io/css-101/tree/main/3-box-model/18-local-library)
+
+## Layout
+
+- [`lines-and-blocks`](https://github.com/codedex-io/css-101/tree/main/4-layout/19-lines-and-blocks)
+- [`go-with-the-flow`](https://github.com/codedex-io/css-101/tree/main/4-layout/20-go-with-the-flow)
+- [`its-all-relative`](https://github.com/codedex-io/css-101/tree/main/4-layout/21-its-all-relative)
+- [`absolute-removal`](https://github.com/codedex-io/css-101/tree/main/4-layout/22-absolute-removal)
+- [`fixed-banner`](https://github.com/codedex-io/css-101/tree/main/4-layout/23-fixed-banner)
+- [`sticky-elements`](https://github.com/codedex-io/css-101/tree/main/4-layout/24-sticky-elements)
+- [`art-gallery`](https://github.com/codedex-io/css-101/tree/main/4-layout/25-art-gallery)
