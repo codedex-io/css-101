@@ -1,3 +1,4 @@
+/* General Resets */
 * {
   font-family: Lato, sans-serif;
   box-sizing: border-box;
@@ -5,6 +6,7 @@
   margin: 0;
 }
 
+/* Header Styles */
 header {
   background-color:#492b7c;
   color: #fff;
@@ -15,13 +17,14 @@ header, h2 {
   text-align: center;
 }
 
+/* Navigation Styles */
 nav > ul {
   margin: 5px 0;
 }
 
 nav li {
  background-color: #c2c2ff;
-  padding: 7px;
+  padding: 10px;
   margin: 1em auto;
   width: 25%;
   border: 2px solid;
@@ -30,6 +33,7 @@ nav li {
   display: inline-block;
 }
 
+/* Section Styles */
 section {
   min-height: 100vh;
 }
@@ -43,6 +47,7 @@ section > h2 {
   border-bottom: 0.5px solid grey;
 }
 
+/* Story Section Styles */
 #story-section {
   background-color: #fffbc4;
 }
@@ -57,26 +62,47 @@ section > h2 {
   border-radius: 5px;
   display: block;
   margin: auto;
+  margin-top: 10px;
 }
 
+#story-section > p{
+  margin-top: 10px;
+}
+
+
+/* Services Section Styles */
 #services-section > h2 {
   background-color: #88b3b3;
+  margin-top: 10px;
 }
 
 #services-section > ul {
   list-style-position: inside;
 }
 
+#services-section >p {
+  margin-top: 10px;
+}
+
+/* Contact Section Styles */
 #contact-section {
   background-color: #492b7c;
   color: #fff;
 }
 
+#contact-section >p{
+  margin-left: 20%;
+  padding: 5px;
+}
+
+/* Form Styles */
 form {
   width: max-content;
   margin: auto;
+  padding: 10px;
 }
 
+/* Notification Styles */
 #notification-div {
   background-color: #ed8a0a;
   color: #313131;
