@@ -2,7 +2,7 @@
 /* Codédex */
 
 body {
-  background: linear-gradient(skyblue, green) no-repeat;
+  background: linear-gradient(skyblue, green);
   margin: 0;
   padding: 0;
   min-height: 100vh;
