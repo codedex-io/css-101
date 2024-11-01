@@ -27,7 +27,7 @@ nav li {
   padding: 7px;
   margin: 1em auto;
   width: 25%;
-  border: 2px solid;
+  border: 2px solid #000;
   border-radius: 5px;
   list-style-type: none;
   display: inline-block;
