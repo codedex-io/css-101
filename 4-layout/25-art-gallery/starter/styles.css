@@ -21,12 +21,8 @@ hr {
   width: 80%;
   margin: auto;
   text-align: left;
-}
-
-#gallery-header > h1 {
   margin-left: 0;
 }
-
 #gallery-header > p {
   color: #5e96ff;
   font-weight: 800;
