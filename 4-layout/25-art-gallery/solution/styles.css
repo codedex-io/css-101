@@ -9,7 +9,7 @@
     position: relative;
   }
   
-  img, .gallery-item > p {
+  img, .gallery-item {
     width: 100%;
     position: relative;
     z-index: 1;
