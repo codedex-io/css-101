@@ -23,11 +23,11 @@ hr {
   text-align: left;
 }
 
-#gallery-header > h1 {
+#gallery-container > h1 {
   margin-left: 0;
 }
 
-#gallery-header > p {
+#gallery-container > p {
   color: #5e96ff;
   font-weight: 800;
 }
