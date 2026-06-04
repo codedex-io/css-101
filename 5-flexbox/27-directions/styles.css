@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+body {
+  height: 100vh;
+}
+  
+.card-row {
+  display: flex;
+  
+  /* flex-direction is changed to row, and flex-wrap: wrap is added */
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 2rem;
+  gap: 2rem;
+}
+    
+.card {
+  background-color: yellowgreen;
+  border: 2px solid #0f3460;
+  border-radius: 12px;
+  padding: 2rem;
+  width: 150px;
+  height: 150px;
+}

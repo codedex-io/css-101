@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+}
+
+.card-row {
+  display: flex;
+  height: 100vh;
+  /* justify-content and align-items are changed to center! */
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: yellowgreen;
+  border: 2px solid #0f3460;
+  border-radius: 12px;
+  padding: 2rem;
+  width: 200px;
+}
