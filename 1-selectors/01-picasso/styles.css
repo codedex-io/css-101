@@ -23,7 +23,7 @@ body {
   padding: 2rem 1rem;
   color: var(--ink);
   font-family: "Lora", Georgia, serif;
-  /* classic red-and-cream pizzeria tablecloth */
+  /* checkered pizzeria tablecloth */
   background:
     conic-gradient(
       var(--red) 25%,
