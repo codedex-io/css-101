@@ -1,16 +1,11 @@
 /* Selectors Pt. 1 👇 */
 /* Codédex */
 
-div {
-  border: 1px solid;
-  text-align: center;
-}
-
-.line {
-  width: 50%;
-  margin: auto;
-  padding: 10px 0;
-  text-decoration: underline;
+body {
+  display: grid;
+  place-items: center;
+  font-family: Georgia, serif;
+  background-color: #f0f0f0;
 }
 
 #roses {
